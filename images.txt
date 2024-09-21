@@ -1,3 +1,5 @@
 mysql:8.0
 cooderl/wewe-rss:latest
 jc21/nginx-proxy-manager:latest
+justsong/one-api:latest
+redis:latest
