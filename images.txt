@@ -3,3 +3,5 @@ cooderl/wewe-rss:latest
 jc21/nginx-proxy-manager:latest
 justsong/one-api:latest
 redis:latest
+diyaps/nightscout:latest
+mongo:4.4.17-rc0-focal
