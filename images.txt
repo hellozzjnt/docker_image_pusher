@@ -5,3 +5,4 @@ justsong/one-api:latest
 redis:latest
 diyaps/nightscout:latest
 mongo:4.4.17-rc0-focal
+cooderl/wewe-rss-sqlite:latest
