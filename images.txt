@@ -6,3 +6,4 @@ redis:latest
 diyaps/nightscout:latest
 mongo:4.4.17-rc0-focal
 cooderl/wewe-rss-sqlite:latest
+nvidia/cuda:12.5.0-base-ubuntu22.04
